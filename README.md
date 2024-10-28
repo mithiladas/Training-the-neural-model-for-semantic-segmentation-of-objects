@@ -1,0 +1,1 @@
+# Training-the-neural-model-for-semantic-segmentation-of-objects
